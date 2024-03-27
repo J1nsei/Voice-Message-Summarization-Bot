@@ -1,0 +1,8 @@
+aiogram~=3.4.1
+python-dotenv
+pydantic_settings
+torch~=2.2.1+cu121
+guidance~=0.1.13
+whisperx~=3.1.1
+transformers~=4.39.0
+pydantic~=2.5.3
